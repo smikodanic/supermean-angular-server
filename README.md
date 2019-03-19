@@ -36,6 +36,7 @@ $ ng build --aot
 
 ## Config file
 - /app/config/index.js
+IMPORTANT!!! Before start server set config.project_name which must be same as angular.json::defaultProject value.
 
 
 ## Environment variables

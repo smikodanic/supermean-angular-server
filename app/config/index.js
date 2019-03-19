@@ -7,7 +7,7 @@
 const config_env = require('./env/' + (process.env.NODE_ENV || 'development'));
 
 const config = {
-  server_name: 'SuperMEAN Angular Server',
+  project_name: '', // must be same as angular.json::defaultProject value
   env: config_env
 };
 

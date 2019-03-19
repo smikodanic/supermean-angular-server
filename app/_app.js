@@ -9,8 +9,7 @@ const ejs = require('ejs');
 
 
 // get angular project directory
-const ngjson = require('../../angular.json');
-const ngProjectName = ngjson.defaultProject;
+const ngProjectName = config.project_name;
 const ngProjectDir = path.join(__dirname, '../../dist/' + ngProjectName);
 
 
