@@ -1,0 +1,20 @@
+{
+  "name": "supermean-angular-server",
+  "version": "1.0.0",
+  "title": "SuperMEAN Angular Server",
+  "description": "SuperMEAN Angular Server is fast and reliable HTTP server for serving Angular 5+ project.",
+  "main": "./server/index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "keywords": [
+    "supermean",
+    "angular",
+    "angular server",
+    "http server"
+  ],
+  "author": "Sasa Mikodanic",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
