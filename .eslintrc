@@ -25,7 +25,7 @@
         "no-template-curly-in-string": 2
     },
     "parserOptions": {
-        "ecmaVersion": 8,
+        "ecmaVersion": 9,
         "sourceType": "module"
      },
    "plugins": [
